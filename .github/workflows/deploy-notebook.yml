@@ -207,7 +207,7 @@ jobs:
                 }
               ]
             },
-                        {
+            {
               "task_key": "Load",
               "description": "Ejecuta notebook Load",
               "notebook_task": {
@@ -222,7 +222,7 @@ jobs:
                   "task_key": "Transform"
                 }
               ]
-            },
+            }
           ],
           "schedule": {
             "quartz_cron_expression": "0 0 8 * * ?",
