@@ -150,7 +150,7 @@ jobs:
                   "container": "raw",
                   "catalogo": "catalog_au",
                   "esquema": "bronze",
-                  "storageName": "adlssmartdata1702"
+                  "storageName": "adlsmartdata1504"
                 }
               },
               "existing_cluster_id": "$CLUSTER_ID",
@@ -172,7 +172,7 @@ jobs:
                   "container": "raw",
                   "catalogo": "catalog_au",
                   "esquema": "bronze",
-                  "storageName": "adlssmartdata1702"
+                  "storageName": "adlsmartdata1504"
                 }
               },
               "existing_cluster_id": "$CLUSTER_ID",
@@ -194,7 +194,7 @@ jobs:
                   "container": "raw",
                   "catalogo": "catalog_au",
                   "esquema": "bronze",
-                  "storageName": "adlssmartdata1702"
+                  "storageName": "adlsmartdata1504"
                 }
               },
               "existing_cluster_id": "$CLUSTER_ID",
